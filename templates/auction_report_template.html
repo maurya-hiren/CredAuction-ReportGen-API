@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auction Report</title>
+    <style>
+        * { font-family: "Montserrat", sans-serif; }
+        body { background-color: #f5f5f5; margin: 0; padding: 0; }
+        .page { width: 210mm; height: 297mm; margin: auto; background: white; padding: 20px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); position: relative; }
+        table { width: 98%; margin: 0 auto; border-collapse: collapse; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+        th { background-color: #4a4a4a; color: #ffffff; text-align: left; padding: 12px; }
+        td { padding: 12px; text-align: left; border-bottom: 1px solid #e0e0e0; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .header { text-align: center; padding: 20px; background: #4a4a4a; color: #ffffff; border-radius: 8px 8px 0 0; }
+        .footer { text-align: center; padding: 10px; font-size: 12px; color: #666666; background: #f9f9f9; border-radius: 0 0 8px 8px; position: absolute; bottom: 10px; width: 98%; left: 50%; transform: translateX(-50%); }
+        .logo-container { display: flex; justify-content: space-between; align-items: center; padding: 20px; }
+        .logo-container img { max-height: 40px; }
+        .confidential-note { font-size: 12px; color: #666; text-align: center; margin: 15px 0; }
+        .page-break { page-break-before: always; }
+        .secondary-header { text-align: center; padding: 10px; }
+        .secondary-header img { max-height: 50px; display: block; margin: 0 auto; }
+        .section { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="logo-container">
+            <img src="https://credsolv.com/assets/images/logo-dark.png" alt="Company Logo">
+            <img src="{{BANK_LOGO}}" alt="Bank Logo">
+        </div>
+        <table>
+            <tr><td class="header"><h1>Auction Report</h1><p>Property Name - {{PROPERTY_NAME}}</p></td></tr>
+            <tr><td class="confidential-note">This report is generated from the CredAuction portal. Any modifications or unauthorized changes to this report are not the responsibility of CredAuction. For an official version, please contact the appropriate authority. If this report has been directly forwarded to you, it is considered authentic. <strong>CredAuction Confidential.</strong></td></tr>
+        </table>
+        <div class="section">
+            <h3>Auction Details</h3>
+            <table>
+                <tr><td><strong>Bid Auction Status:</strong> {{AUCTION_STATUS}}</td></tr>
+                <tr><td><strong>Auction Reference:</strong> {{AUCTION_REFERENCE}}</td></tr>
+                <tr><td><strong>Property Description:</strong> {{PROPERTY_DESCRIPTION}}</td></tr>
+                <tr><td><strong>Press Release Date:</strong> {{PRESS_RELEASE_DATE}}</td></tr>
+                <tr><td><strong>Auction Training Received:</strong> {{AUCTION_TRAINING}}</td></tr>
+                <tr><td><strong>Inspection Date:</strong> {{INSPECTION_DATE}}</td></tr>
+                <tr><td><strong>Offer Submission Last Date:</strong> {{OFFER_SUBMISSION_LAST_DATE}}</td></tr>
+                <tr><td><strong>Auction Start Date and Time:</strong> {{AUCTION_START_DATE}}</td></tr>
+                <tr><td><strong>Auction End Date and Time:</strong> {{AUCTION_END_DATE}}</td></tr>
+                <tr><td><strong>First Bid:</strong> {{FIRST_BIDDER_NAME}} </td></tr>
+                <tr><td><strong>Last Bid:</strong> {{LAST_BIDDER_NAME}} </td></tr>
+            </table>
+        </div>
+        <div class="footer">Disclaimer: This is a system-generated report; hence, it does not need any signature.</div>
+    </div>
+    
+    <!-- Subsequent Bid Pages -->
+    {{BID_PAGES}}
+</body>
+</html>

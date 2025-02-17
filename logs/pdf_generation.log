@@ -1,0 +1,385 @@
+[2025-02-17T09:10:21.676Z] ✅ SSL Certificates Loaded Successfully
+[2025-02-17T09:10:49.410Z] 🔄 Generating PDF...
+[2025-02-17T09:10:49.410Z] 📌 Received Request Data: {
+  "propertyName": "Demo_Flat for Sale at Malad west",
+  "auctionStatus": "Completed",
+  "auctionReference": "test_bank VS Balram",
+  "propertyDescription": "2 bhk flat for sale at Malad\r\nReserve Rate: Rs. 45,00,000/-\r\nBid Increment: Rs. 50,000/-",
+  "pressReleaseDate": "2025-02-14",
+  "auctionTraining": "Yes",
+  "inspectionDate": "2025-02-13 to 2025-02-13",
+  "offerSubmissionLastDate": "2025-02-14",
+  "auctionStartDate": "2025-02-15 : 15:30:00",
+  "auctionEndDate": "2025-02-15 : 17:10:00",
+  "firstBid": {
+    "bidder": "Balram Jha - ₹4,550,000.00 at 15-02-2025 03:35:31 PM"
+  },
+  "lastBid": {
+    "bidder": "Balram Jha - ₹5,750,000.00 at 15-02-2025 05:00:15 PM"
+  },
+  "bankLogo": "https://via.placeholder.com/100x50?text=N/A",
+  "bids": [
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,750,000.00",
+      "rank": "H1",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 05:00:15 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,700,000.00",
+      "rank": "H2",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:55:07 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,650,000.00",
+      "rank": "H3",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:53:21 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,600,000.00",
+      "rank": "H4",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:39:15 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,550,000.00",
+      "rank": "H5",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:38:34 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,500,000.00",
+      "rank": "H6",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:36:21 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,450,000.00",
+      "rank": "H7",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:31:46 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,400,000.00",
+      "rank": "H8",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:28:20 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,350,000.00",
+      "rank": "H9",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:22:47 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,300,000.00",
+      "rank": "H10",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:14:05 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,250,000.00",
+      "rank": "H11",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:13:50 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,200,000.00",
+      "rank": "H12",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:13:02 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,150,000.00",
+      "rank": "H13",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:08:50 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,100,000.00",
+      "rank": "H14",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:01:04 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,050,000.00",
+      "rank": "H15",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:59:39 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,000,000.00",
+      "rank": "H16",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:57:54 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,950,000.00",
+      "rank": "H17",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:54:18 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,900,000.00",
+      "rank": "H18",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:44:26 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,850,000.00",
+      "rank": "H19",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:39:06 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,800,000.00",
+      "rank": "H20",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:38:52 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,700,000.00",
+      "rank": "H21",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:37:51 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,650,000.00",
+      "rank": "H22",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:36:39 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,600,000.00",
+      "rank": "H23",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:35:40 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,550,000.00",
+      "rank": "H24",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:35:31 PM"
+    }
+  ]
+}
+[2025-02-17T09:10:51.633Z] ✅ PDF Successfully Generated: ./pdfs/Auction_Report_1739783450541.pdf
+[2025-02-17T09:35:47.390Z] ✅ SSL Certificates Loaded Successfully
+[2025-02-17T09:36:51.326Z] ✅ SSL Certificates Loaded Successfully
+[2025-02-17T09:37:16.304Z] 🔄 Generating PDF...
+[2025-02-17T09:37:16.305Z] 📌 Received Request Data: {
+  "propertyName": "Demo_Flat for Sale at Malad west",
+  "auctionStatus": "Completed",
+  "auctionReference": "test_bank VS Balram",
+  "propertyDescription": "2 bhk flat for sale at Malad\r\nReserve Rate: Rs. 45,00,000/-\r\nBid Increment: Rs. 50,000/-",
+  "pressReleaseDate": "2025-02-14",
+  "auctionTraining": "Yes",
+  "inspectionDate": "2025-02-13 to 2025-02-13",
+  "offerSubmissionLastDate": "2025-02-14",
+  "auctionStartDate": "2025-02-15 : 15:30:00",
+  "auctionEndDate": "2025-02-15 : 17:10:00",
+  "firstBid": {
+    "bidder": "Balram Jha - ₹4,550,000.00 at 15-02-2025 03:35:31 PM"
+  },
+  "lastBid": {
+    "bidder": "Balram Jha - ₹5,750,000.00 at 15-02-2025 05:00:15 PM"
+  },
+  "bankLogo": "https://via.placeholder.com/100x50?text=N/A",
+  "bids": [
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,750,000.00",
+      "rank": "H1",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 05:00:15 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,700,000.00",
+      "rank": "H2",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:55:07 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,650,000.00",
+      "rank": "H3",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:53:21 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,600,000.00",
+      "rank": "H4",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:39:15 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,550,000.00",
+      "rank": "H5",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:38:34 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,500,000.00",
+      "rank": "H6",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:36:21 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,450,000.00",
+      "rank": "H7",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:31:46 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,400,000.00",
+      "rank": "H8",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:28:20 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,350,000.00",
+      "rank": "H9",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:22:47 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,300,000.00",
+      "rank": "H10",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:14:05 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,250,000.00",
+      "rank": "H11",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:13:50 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,200,000.00",
+      "rank": "H12",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:13:02 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,150,000.00",
+      "rank": "H13",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:08:50 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,100,000.00",
+      "rank": "H14",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 04:01:04 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 5,050,000.00",
+      "rank": "H15",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:59:39 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 5,000,000.00",
+      "rank": "H16",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:57:54 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,950,000.00",
+      "rank": "H17",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:54:18 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,900,000.00",
+      "rank": "H18",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:44:26 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,850,000.00",
+      "rank": "H19",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:39:06 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,800,000.00",
+      "rank": "H20",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:38:52 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,700,000.00",
+      "rank": "H21",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:37:51 PM"
+    },
+    {
+      "bidder_name": " Abhijeet Sorte",
+      "bid_value": "₹ 4,650,000.00",
+      "rank": "H22",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:36:39 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,600,000.00",
+      "rank": "H23",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:35:40 PM"
+    },
+    {
+      "bidder_name": " Balram Jha",
+      "bid_value": "₹ 4,550,000.00",
+      "rank": "H24",
+      "ip_address": "43.231.254.202",
+      "bid_date": "15-02-2025 03:35:31 PM"
+    }
+  ]
+}
+[2025-02-17T09:37:18.357Z] ✅ PDF Successfully Generated: ./pdfs/Auction_Report_1739785037412.pdf
